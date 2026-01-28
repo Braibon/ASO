@@ -6,9 +6,9 @@
 
 Lo primero que tenemos que hacer es, desde una maquina Windows 11 es descargar e instalar "WAC" (Windows Admin Center)
 
-![](imagenes/INSTALACION_WAC.png)
+![](/imagenes/INSTALACION_WAC.png)
 
-![](imagenes/CONSOLA_WAC.png)
+![](/imagenes/CONSOLA_WAC.png)
 
 Despues agregamos nuestro Windows Server e inicamos sesión con un usuario del dominio
 
@@ -34,5 +34,6 @@ Ahora nos conectaremos a cockpit mediante un navegador en nuestro windows 11 par
 Ahora desde la interfaz de cockpit iremos a monitorizar el sistema
 
 ![](imagenes/MONITORIZARCOCKPIT.png)
+
 
 ## FIN
