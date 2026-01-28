@@ -6,7 +6,7 @@
 
 Lo primero que tenemos que hacer es, desde una maquina Windows 11 es descargar e instalar "WAC" (Windows Admin Center)
 
-![](/imagenes/INSTALACION_WAC.png)
+![](IMAGENES/INSTALACION_WAC.png)
 
 ![](/imagenes/CONSOLA_WAC.png)
 
@@ -37,3 +37,4 @@ Ahora desde la interfaz de cockpit iremos a monitorizar el sistema
 
 
 ## FIN
+
